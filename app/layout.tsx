@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import { DM_Serif_Display, Hanken_Grotesk, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
-import { RecipeDrawerProvider } from "@/components/RecipeDrawerProvider";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
+import { RecipeDrawerProvider } from "@/components/recipe/RecipeDrawerProvider";
+import Header from "@/components/layout/Header";
+import Footer from "@/components/layout/Footer";
 
 const dmSerif = DM_Serif_Display({
   subsets: ["latin"],
