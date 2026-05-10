@@ -30,6 +30,9 @@ export default function Header() {
             </Link>
           ))}
         </nav>
+        <a className="nav-cta" href="#newsletter">
+          Join the Newsletter
+        </a>
       </div>
     </header>
   );

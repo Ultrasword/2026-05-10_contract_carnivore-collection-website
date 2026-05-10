@@ -31,7 +31,7 @@ export default function Newsletter() {
             onChange={(e) => setEmail(e.target.value)}
             required
           />
-          <button type="submit">{sent ? "✓ You're in" : "Subscribe"}</button>
+          <button type="submit">{sent ? "✓ You're in" : "Join the Newsletter"}</button>
         </form>
         <span className="news-fine">
           12,400 cooks. Zero spam. One unsubscribe link, always at the top.
