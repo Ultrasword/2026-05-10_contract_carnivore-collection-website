@@ -27,7 +27,7 @@ export default function HomeGrid() {
   );
 
   const grid = filtered.filter((r) => !r.hero).slice(0, 6);
-  const list = filtered.filter((r) => !r.hero).slice(6);
+  const list = filtered.filter((r) => !r.hero).slice(6, 14);
 
   return (
     <>
