@@ -51,3 +51,49 @@ export const fmtTime = (m: number): string =>
 
 export const imgUrl = (id: string): string =>
   `https://images.unsplash.com/photo-${id}?w=900&q=80&auto=format&fit=crop`;
+
+export type CourseIntro = {
+  tag: string;
+  count: number;
+  kicker: string;
+  title: string;
+  sub: string;
+};
+
+export const COURSE_INTROS: Record<Course | "All", CourseIntro> = {
+  Breakfast: {
+    tag: "Breakfast",
+    count: 18,
+    kicker: "Course 01",
+    title: "Breakfast.",
+    sub: "Eggs done well, sausage worth waking up for, and the occasional excuse to brown butter before noon.",
+  },
+  Mains: {
+    tag: "Mains",
+    count: 47,
+    kicker: "Course 02",
+    title: "Mains.",
+    sub: "The point of the meal. Steaks, roasts, slow-cooked things — recipes built around respecting the cut.",
+  },
+  Desserts: {
+    tag: "Desserts",
+    count: 39,
+    kicker: "Course 03",
+    title: "Desserts.",
+    sub: "Carnivore-friendly sweets that don't feel like a compromise. Cream, eggs, and the patience of a good fridge.",
+  },
+  Snacks: {
+    tag: "Snacks & treats",
+    count: 44,
+    kicker: "Course 04",
+    title: "Snacks & treats.",
+    sub: "Something to eat between meals, on the road, or with a glass of something cold.",
+  },
+  All: {
+    tag: "All recipes",
+    count: 148,
+    kicker: "The archive",
+    title: "Every recipe.",
+    sub: "All 148 of them. Filter by course, sort by patience required, or search for anything specific.",
+  },
+};
