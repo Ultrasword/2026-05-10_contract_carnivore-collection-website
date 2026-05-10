@@ -3,54 +3,150 @@
     "id": "lodge",
     "num": "01",
     "name": "12-inch cast iron skillet",
+    "category": "Cookware",
     "note": "The pan that does almost everything. Holds heat like a battery, sears like a stovetop steakhouse, and costs less than dinner out.",
     "brand": "Lodge",
     "price": "$35",
     "img": "1556909114-f6e7ad7d3136"
   },
   {
-    "id": "thermo",
-    "num": "02",
-    "name": "Instant-read thermometer",
-    "note": "The single tool that turns guesswork into doneness. Pull at 122°F for medium-rare and stop apologising.",
-    "brand": "ThermoWorks Thermapen",
-    "price": "$109",
-    "img": "1556909195-7c0e5b1eb6d8"
-  },
-  {
     "id": "dutch",
-    "num": "03",
+    "num": "02",
     "name": "7-quart enamelled dutch oven",
+    "category": "Cookware",
     "note": "Bone broth on Sunday, carnitas on Monday, shepherd's pie on Wednesday. The kitchen's slow MVP.",
     "brand": "Le Creuset / Lodge",
     "price": "$60–380",
     "img": "1584947897558-4e06f3e91ceb"
   },
   {
-    "id": "knife",
+    "id": "carbon-steel",
+    "num": "03",
+    "name": "10-inch carbon steel pan",
+    "category": "Cookware",
+    "note": "Lighter than cast iron, faster to heat, slick once seasoned. The everyday-egg pan.",
+    "brand": "Matfer Bourgeat",
+    "price": "$55",
+    "img": "1556910103-1c02745aae4d"
+  },
+  {
+    "id": "roasting-pan",
     "num": "04",
+    "name": "Roasting pan with V-rack",
+    "category": "Cookware",
+    "note": "Holds a whole bird, drips into the bottom, fond becomes Sunday's gravy.",
+    "brand": "All-Clad",
+    "price": "$180",
+    "img": "1574484184081-afea8a62f9c9"
+  },
+  {
+    "id": "knife",
+    "num": "05",
     "name": "8-inch chef's knife",
+    "category": "Knives & Cutting",
     "note": "Sharp matters more than expensive. Buy a good one, learn to hone it, and replace your block set with one tool that works.",
     "brand": "Victorinox Fibrox",
     "price": "$45",
     "img": "1593618998160-e34014e67546"
   },
   {
+    "id": "boning",
+    "num": "06",
+    "name": "6-inch boning knife",
+    "category": "Knives & Cutting",
+    "note": "For breaking down a chicken or trimming silver skin off a tenderloin. Sharp, flexible, narrow.",
+    "brand": "Victorinox",
+    "price": "$30",
+    "img": "1593618998160-e34014e67546"
+  },
+  {
     "id": "board",
-    "num": "05",
+    "num": "07",
     "name": "End-grain butcher block",
+    "category": "Knives & Cutting",
     "note": "Easier on the knife, easier on the eyes. Mineral-oil it once a month and it'll outlive your stove.",
     "brand": "Boos Block",
     "price": "$120",
     "img": "1556910103-1c02745aae4d"
   },
   {
+    "id": "honing-rod",
+    "num": "08",
+    "name": "10-inch honing rod",
+    "category": "Knives & Cutting",
+    "note": "Two strokes per side, every other use. Keeps the edge true between sharpenings.",
+    "brand": "Idahone Ceramic",
+    "price": "$45",
+    "img": "1593618998160-e34014e67546"
+  },
+  {
+    "id": "thermo",
+    "num": "09",
+    "name": "Instant-read thermometer",
+    "category": "Tools & Gadgets",
+    "note": "The single tool that turns guesswork into doneness. Pull at 122°F for medium-rare and stop apologising.",
+    "brand": "ThermoWorks Thermapen",
+    "price": "$109",
+    "img": "1556909195-7c0e5b1eb6d8"
+  },
+  {
     "id": "scale",
-    "num": "06",
+    "num": "10",
     "name": "Digital kitchen scale",
+    "category": "Tools & Gadgets",
     "note": "Recipes in grams cook the same way every time. Cups don't.",
     "brand": "OXO Good Grips",
     "price": "$50",
     "img": "1556909114-f6e7ad7d3136"
+  },
+  {
+    "id": "fish-spatula",
+    "num": "11",
+    "name": "Slotted fish spatula",
+    "category": "Tools & Gadgets",
+    "note": "Slim, slotted, angled. The right tool for flipping anything that wants to stick.",
+    "brand": "Wüsthof",
+    "price": "$25",
+    "img": "1556909195-7c0e5b1eb6d8"
+  },
+  {
+    "id": "spider",
+    "num": "12",
+    "name": "Spider strainer",
+    "category": "Tools & Gadgets",
+    "note": "For lifting things out of hot fat. Bigger than a slotted spoon, faster than tongs.",
+    "brand": "Winco",
+    "price": "$12",
+    "img": "1556909195-7c0e5b1eb6d8"
+  },
+  {
+    "id": "pepper-mill",
+    "num": "13",
+    "name": "Adjustable pepper mill",
+    "category": "Tools & Gadgets",
+    "note": "Pre-ground pepper is dust. A mill is the difference between seasoning and not.",
+    "brand": "Peugeot Paris",
+    "price": "$60",
+    "img": "1556909114-f6e7ad7d3136"
+  },
+  {
+    "id": "chimney",
+    "num": "14",
+    "name": "Charcoal chimney",
+    "category": "Heat & Smoke",
+    "note": "Lights a full chimney of lump charcoal in 12 minutes. No lighter fluid, no waiting, no apologies.",
+    "brand": "Weber Rapidfire",
+    "price": "$25",
+    "img": "1565299624946-b28f40a0ae38"
+  },
+  {
+    "id": "pellet-grill",
+    "num": "15",
+    "name": "Pellet grill, mid-size",
+    "category": "Heat & Smoke",
+    "note": "Set the temp, walk away, come back to dinner. Smoke when you want it, sear when you don't.",
+    "brand": "Traeger Pro",
+    "price": "$700",
+    "img": "1547592180-85f173990554"
   }
 ]

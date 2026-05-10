@@ -17,15 +17,29 @@ export type Recipe = {
   img: string;
 };
 
+export type EquipmentCategory =
+  | "Cookware"
+  | "Knives & Cutting"
+  | "Tools & Gadgets"
+  | "Heat & Smoke";
+
 export type Equipment = {
   id: string;
   num: string;
   name: string;
+  category: EquipmentCategory;
   note: string;
   brand: string;
   price: string;
   img: string;
 };
+
+export const EQUIPMENT_CATEGORIES: EquipmentCategory[] = [
+  "Cookware",
+  "Knives & Cutting",
+  "Tools & Gadgets",
+  "Heat & Smoke",
+];
 
 export const RECIPES = recipesJson as Recipe[];
 export const EQUIPMENT = equipmentJson as Equipment[];
