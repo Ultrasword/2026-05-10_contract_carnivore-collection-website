@@ -1,0 +1,314 @@
+[
+  {
+    "id": "ribeye-butter-basted",
+    "title": "Butter-basted ribeye",
+    "course": "Mains",
+    "time": 25,
+    "level": "Easy",
+    "tag": "Beef",
+    "note": "A 12-minute pan, 13 minutes of patience.",
+    "featured": true,
+    "hero": true,
+    "img": "1546964124-0cce460f38ef"
+  },
+  {
+    "id": "cheesecake-cups",
+    "title": "Cheesecake cups",
+    "course": "Desserts",
+    "time": 35,
+    "level": "Easy",
+    "tag": "Dairy",
+    "note": "Three ingredients. Six hours in the fridge.",
+    "img": "1533134242443-d4fd215305ad"
+  },
+  {
+    "id": "bacon-chip-cookies",
+    "title": "Bacon chip cookies",
+    "course": "Desserts",
+    "time": 40,
+    "level": "Easy",
+    "tag": "Pork",
+    "note": "Salty, sweet, structurally improbable.",
+    "img": "1499636136210-6f4ee915583e"
+  },
+  {
+    "id": "mini-donuts",
+    "title": "Mini donuts",
+    "course": "Snacks",
+    "time": 30,
+    "level": "Easy",
+    "tag": "Dairy",
+    "note": "Egg-yolk dough. Dunk in browned butter.",
+    "img": "1551024506-0bccd828d307"
+  },
+  {
+    "id": "shepherds-pie",
+    "title": "Shepherd's pie, flaky butter crust",
+    "course": "Mains",
+    "time": 95,
+    "level": "Med",
+    "tag": "Lamb",
+    "note": "Worth the Sunday.",
+    "img": "1574484184081-afea8a62f9c9"
+  },
+  {
+    "id": "cannoli",
+    "title": "Cannoli",
+    "course": "Desserts",
+    "time": 70,
+    "level": "Med",
+    "tag": "Dairy",
+    "note": "Crisp shells. Whipped mascarpone.",
+    "img": "1607478900766-efe13248b125"
+  },
+  {
+    "id": "cupcakes",
+    "title": "Cupcakes",
+    "course": "Desserts",
+    "time": 75,
+    "level": "Med",
+    "tag": "Eggs",
+    "note": "More soufflé than cupcake. In a good way.",
+    "img": "1486427944299-d1955d23e34d"
+  },
+  {
+    "id": "chicken-pot-pie",
+    "title": "Chicken pot pies",
+    "course": "Mains",
+    "time": 105,
+    "level": "Med",
+    "tag": "Poultry",
+    "note": "Cream, thyme, pulled thigh.",
+    "img": "1604908176997-125f25cc6f3d"
+  },
+  {
+    "id": "spring-rolls",
+    "title": "Spring rolls",
+    "course": "Snacks",
+    "time": 75,
+    "level": "Med",
+    "tag": "Pork",
+    "note": "Egg-white wrappers. Crackling finish.",
+    "img": "1544025162-d76694265947"
+  },
+  {
+    "id": "breakfast-stack",
+    "title": "The breakfast stack",
+    "course": "Breakfast",
+    "time": 15,
+    "level": "Easy",
+    "tag": "Eggs",
+    "note": "Eggs, sausage, a crown of cheese.",
+    "img": "1482049016688-2d3e1b311543"
+  },
+  {
+    "id": "carnitas",
+    "title": "Slow carnitas",
+    "course": "Mains",
+    "time": 240,
+    "level": "Easy",
+    "tag": "Pork",
+    "note": "The oven does the work.",
+    "img": "1565299624946-b28f40a0ae38"
+  },
+  {
+    "id": "bone-broth",
+    "title": "Sunday bone broth",
+    "course": "Mains",
+    "time": 720,
+    "level": "Easy",
+    "tag": "Beef",
+    "note": "Twelve hours. One pot. No notes.",
+    "img": "1547592180-85f173990554"
+  },
+  {
+    "id": "chorizo-skillet-eggs",
+    "title": "Chorizo skillet eggs",
+    "course": "Breakfast",
+    "time": 18,
+    "level": "Easy",
+    "tag": "Pork",
+    "note": "One pan, runny yolks, paprika oil pooling at the rim.",
+    "img": "1482049016688-2d3e1b311543"
+  },
+  {
+    "id": "gruyere-omelette",
+    "title": "Gruyère soufflé omelette",
+    "course": "Breakfast",
+    "time": 20,
+    "level": "Med",
+    "tag": "Dairy",
+    "note": "Fold once. Pull early. Don't overthink it.",
+    "img": "1486427944299-d1955d23e34d"
+  },
+  {
+    "id": "beef-fat-hash",
+    "title": "Beef-fat hash browns",
+    "course": "Breakfast",
+    "time": 30,
+    "level": "Easy",
+    "tag": "Beef",
+    "note": "Rendered fat in place of oil. Crisp like a record.",
+    "img": "1546964124-0cce460f38ef"
+  },
+  {
+    "id": "sausage-egg-muffins",
+    "title": "Sausage and egg muffins",
+    "course": "Breakfast",
+    "time": 22,
+    "level": "Easy",
+    "tag": "Pork",
+    "note": "Make a dozen. Eat through Wednesday.",
+    "img": "1565299624946-b28f40a0ae38"
+  },
+  {
+    "id": "bacon-waffles",
+    "title": "Crispy bacon waffles",
+    "course": "Breakfast",
+    "time": 25,
+    "level": "Easy",
+    "tag": "Pork",
+    "note": "Bacon fat in the batter. Worth the swap.",
+    "img": "1499636136210-6f4ee915583e"
+  },
+  {
+    "id": "reverse-sear-ribeye",
+    "title": "Reverse-seared ribeye",
+    "course": "Mains",
+    "time": 60,
+    "level": "Med",
+    "tag": "Beef",
+    "note": "Slow oven, ripping pan. The cleanest crust we've made.",
+    "img": "1546964124-0cce460f38ef"
+  },
+  {
+    "id": "roast-chicken-butter",
+    "title": "Roast chicken with butter",
+    "course": "Mains",
+    "time": 90,
+    "level": "Easy",
+    "tag": "Poultry",
+    "note": "The first recipe everyone should master.",
+    "img": "1604908176997-125f25cc6f3d"
+  },
+  {
+    "id": "lamb-shoulder",
+    "title": "Lamb shoulder, low and slow",
+    "course": "Mains",
+    "time": 300,
+    "level": "Easy",
+    "tag": "Lamb",
+    "note": "Eight hours in. No basting. Pulls apart with a fork.",
+    "img": "1574484184081-afea8a62f9c9"
+  },
+  {
+    "id": "duck-breast",
+    "title": "Pan-seared duck breast",
+    "course": "Mains",
+    "time": 35,
+    "level": "Med",
+    "tag": "Poultry",
+    "note": "Score the skin. Cold pan. Don't peek.",
+    "img": "1604908176997-125f25cc6f3d"
+  },
+  {
+    "id": "short-ribs-braise",
+    "title": "Beef short ribs, red-wine braise",
+    "course": "Mains",
+    "time": 240,
+    "level": "Med",
+    "tag": "Beef",
+    "note": "A Saturday recipe. Worth blocking the afternoon.",
+    "img": "1547592180-85f173990554"
+  },
+  {
+    "id": "creme-brulee",
+    "title": "Crème brûlée",
+    "course": "Desserts",
+    "time": 240,
+    "level": "Med",
+    "tag": "Eggs",
+    "note": "Six hours in the fridge. Six minutes under the torch.",
+    "img": "1486427944299-d1955d23e34d"
+  },
+  {
+    "id": "brown-butter-ice-cream",
+    "title": "Brown-butter ice cream",
+    "course": "Desserts",
+    "time": 480,
+    "level": "Easy",
+    "tag": "Dairy",
+    "note": "No-churn. Tastes like toasted cream.",
+    "img": "1533134242443-d4fd215305ad"
+  },
+  {
+    "id": "lemon-curd",
+    "title": "Lemon curd",
+    "course": "Desserts",
+    "time": 20,
+    "level": "Easy",
+    "tag": "Eggs",
+    "note": "Bright, thick, on the verge of breaking. Don't break it.",
+    "img": "1607478900766-efe13248b125"
+  },
+  {
+    "id": "cheesecake-brownies",
+    "title": "Cheesecake brownies",
+    "course": "Desserts",
+    "time": 60,
+    "level": "Easy",
+    "tag": "Dairy",
+    "note": "Two batters, one tin. Marble ribbons of either.",
+    "img": "1533134242443-d4fd215305ad"
+  },
+  {
+    "id": "pork-rind-nachos",
+    "title": "Pork rind nachos",
+    "course": "Snacks",
+    "time": 25,
+    "level": "Easy",
+    "tag": "Pork",
+    "note": "Crunch, melt, repeat. The rest is on you.",
+    "img": "1544025162-d76694265947"
+  },
+  {
+    "id": "beef-jerky",
+    "title": "Beef jerky, kitchen-oven",
+    "course": "Snacks",
+    "time": 360,
+    "level": "Easy",
+    "tag": "Beef",
+    "note": "Six hours at 175°F. A week of road snacks.",
+    "img": "1547592180-85f173990554"
+  },
+  {
+    "id": "cured-yolks",
+    "title": "Cured egg yolks",
+    "course": "Snacks",
+    "time": 5760,
+    "level": "Med",
+    "tag": "Eggs",
+    "note": "Four days in salt. The umami bomb.",
+    "img": "1551024506-0bccd828d307"
+  },
+  {
+    "id": "buffalo-chicken-bites",
+    "title": "Buffalo chicken bites",
+    "course": "Snacks",
+    "time": 35,
+    "level": "Easy",
+    "tag": "Poultry",
+    "note": "Crispy thighs, sauce, blue cheese. The trinity.",
+    "img": "1604908176997-125f25cc6f3d"
+  },
+  {
+    "id": "chicharrones",
+    "title": "Chicharrones, fresh",
+    "course": "Snacks",
+    "time": 90,
+    "level": "Med",
+    "tag": "Pork",
+    "note": "Pork belly skin, slowly rendered. The crackle is the point.",
+    "img": "1544025162-d76694265947"
+  }
+]

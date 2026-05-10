@@ -1,0 +1,56 @@
+[
+  {
+    "id": "lodge",
+    "num": "01",
+    "name": "12-inch cast iron skillet",
+    "note": "The pan that does almost everything. Holds heat like a battery, sears like a stovetop steakhouse, and costs less than dinner out.",
+    "brand": "Lodge",
+    "price": "$35",
+    "img": "1556909114-f6e7ad7d3136"
+  },
+  {
+    "id": "thermo",
+    "num": "02",
+    "name": "Instant-read thermometer",
+    "note": "The single tool that turns guesswork into doneness. Pull at 122°F for medium-rare and stop apologising.",
+    "brand": "ThermoWorks Thermapen",
+    "price": "$109",
+    "img": "1556909195-7c0e5b1eb6d8"
+  },
+  {
+    "id": "dutch",
+    "num": "03",
+    "name": "7-quart enamelled dutch oven",
+    "note": "Bone broth on Sunday, carnitas on Monday, shepherd's pie on Wednesday. The kitchen's slow MVP.",
+    "brand": "Le Creuset / Lodge",
+    "price": "$60–380",
+    "img": "1584947897558-4e06f3e91ceb"
+  },
+  {
+    "id": "knife",
+    "num": "04",
+    "name": "8-inch chef's knife",
+    "note": "Sharp matters more than expensive. Buy a good one, learn to hone it, and replace your block set with one tool that works.",
+    "brand": "Victorinox Fibrox",
+    "price": "$45",
+    "img": "1593618998160-e34014e67546"
+  },
+  {
+    "id": "board",
+    "num": "05",
+    "name": "End-grain butcher block",
+    "note": "Easier on the knife, easier on the eyes. Mineral-oil it once a month and it'll outlive your stove.",
+    "brand": "Boos Block",
+    "price": "$120",
+    "img": "1556910103-1c02745aae4d"
+  },
+  {
+    "id": "scale",
+    "num": "06",
+    "name": "Digital kitchen scale",
+    "note": "Recipes in grams cook the same way every time. Cups don't.",
+    "brand": "OXO Good Grips",
+    "price": "$50",
+    "img": "1556909114-f6e7ad7d3136"
+  }
+]
