@@ -143,7 +143,7 @@ main { max-width: 1280px; margin: 0 auto; padding: 0 32px; }
   transition: background 0.15s, color 0.15s;
   white-space: nowrap;
 }
-.nav-cta:hover { background: var(--oxblood); color: var(--cream); }
+.nav-cta:hover { background: var(--amber); color: var(--cream); }
 .search-btn kbd {
   font-family: var(--font-mono), monospace;
   font-size: 10px;
